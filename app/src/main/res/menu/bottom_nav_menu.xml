@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/nav_img1"
+        android:title="홈" />
+
+    <item
+        android:id="@+id/navigation_question"
+        android:icon="@drawable/nav_img2"
+        android:title="멍질문" />
+
+    <item
+        android:id="@+id/navigation_walk"
+        android:icon="@drawable/nav_img3"
+        android:title="멍산책" />
+
+    <item
+        android:id="@+id/navigation_sale"
+        android:icon="@drawable/nav_img4"
+        android:title="멍분양" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/nav_img5"
+        android:title="마이페이지" />
+
+</menu>
